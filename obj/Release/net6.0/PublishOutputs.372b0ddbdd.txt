@@ -1,0 +1,7 @@
+/home/rencecaringal/Documents/mymvcweb/bin/Release/net6.0/publish/mymvcweb
+/home/rencecaringal/Documents/mymvcweb/bin/Release/net6.0/publish/appsettings.Development.json
+/home/rencecaringal/Documents/mymvcweb/bin/Release/net6.0/publish/appsettings.json
+/home/rencecaringal/Documents/mymvcweb/bin/Release/net6.0/publish/mymvcweb.dll
+/home/rencecaringal/Documents/mymvcweb/bin/Release/net6.0/publish/mymvcweb.deps.json
+/home/rencecaringal/Documents/mymvcweb/bin/Release/net6.0/publish/mymvcweb.runtimeconfig.json
+/home/rencecaringal/Documents/mymvcweb/bin/Release/net6.0/publish/mymvcweb.pdb
